@@ -1,0 +1,13 @@
+node_modules/
+dist/
+build/
+out/
+*.mp4
+*.log
+.DS_Store
+.env.local
+.env.*.local
+*.pem
+.next/
+.turbo/
+coverage/
